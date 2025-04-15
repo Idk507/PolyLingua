@@ -54,6 +54,8 @@ To develop an intelligent audio-based assistant capable of:
 - Use lightweight ASR/TTS/translation models that can run locally without internet.
 
 ---
+![image](https://github.com/user-attachments/assets/705e9a94-076f-4c72-96ad-3cc78cb12073)
+
 
 ## 🏗️ **Tech Stack Suggestion**
 
